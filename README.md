@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/TomBuehner/test-project/_apis/build/status/test-project-Maven-CI?branchName=master)](https://dev.azure.com/TomBuehner/test-project/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
